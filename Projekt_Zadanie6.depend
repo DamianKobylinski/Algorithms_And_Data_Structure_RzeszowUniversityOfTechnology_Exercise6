@@ -1,8 +1,11 @@
 # depslib dependency file v1.0
-1668625165 source:d:\algorytmy_i_struktury_danych\projekt_zadanie6\main.cpp
+1668722204 source:d:\algorytmy_i_struktury_danych\projekt_zadanie6\main.cpp
 	<iostream>
+	<cstdio>
 	<ctime>
 	<cstdlib>
+	<chrono>
+	<cmath>
 
 1668607543 d:\algorytmy_i_struktury_danych\projekt_zadanie6\algorithm.h
 
